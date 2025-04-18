@@ -3,3 +3,8 @@ rules.txt
 index.html
 .cursorrules
 static/images
+yolo11x-cls.pt
+yolo11m-seg.pt
+yolo11n-seg.pt
+yolo11n.pt
+yolo11s-seg.pt
